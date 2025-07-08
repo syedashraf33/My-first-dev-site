@@ -67,15 +67,20 @@ nav li a{
 .banner-greetings{
     font-size: 45px;
     font-weight: 600;
+    margin: 0 0 20px 0;
 }
 .banner-title{
     font-size: 85px;
     font-weight: 800px;
-    margin-bottom: 20px;
+    margin: 0 0 20px 0;
 }
 .banner-decription{
     font-size: 18px;
+    margin-bottom: 30px;
 }
 .banner-protfolio-pic{
     width: 580px;
+}
+.banner-button{
+    margin-right: 30px;
 }
